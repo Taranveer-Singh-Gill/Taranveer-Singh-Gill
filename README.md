@@ -5,7 +5,7 @@
 
 I'm a Data Engineer with an MS in Data Science from the University at Buffalo. I enjoy building data pipelines, working with large datasets, and turning raw data into reliable, analytics-ready solutions.
 
-Currently, I work with Azure Data Factory, Databricks, PySpark, and SQL to build and maintain cloud-based data platforms. My projects span healthcare, financial and trade data, database engineering, and machine learning.
+Currently, I work with Azure Data Factory, Databricks, PySpark, and SQL to build and maintain cloud-based data platforms. Beyond data engineering, my projects span machine learning, computer vision, healthcare data platforms, and database engineering.
 
 I'm interested in solving data engineering challenges across industries, from building scalable ETL pipelines to designing cloud lakehouse architectures and developing data solutions that support business decisions.
 
@@ -57,15 +57,19 @@ An end-to-end healthcare data platform integrating Epic FHIR R4 APIs with Azure 
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/epic-fhir-data-platform)
 
-#### 🌍 International Trade Flow Data Platform
 
-Built a data engineering platform to process and analyze international trade data across 40+ countries.
+#### 🧠 Famous Personality Image Classification
 
-- Developed Python ETL pipelines to ingest and transform data from APIs, CSV, and JSON sources.
-- Processed 2M+ trade records and organized commodity and industry datasets.
-- Stored structured data in Azure PostgreSQL to support interactive trade flow visualizations.
+Developed an end-to-end computer vision and machine learning pipeline to classify facial images across 17 famous personalities.
 
-**Tech:** Python, SQL, Azure PostgreSQL, ETL, Data Modeling
+- Built an automated image preprocessing pipeline using OpenCV for face and eye detection, cropping, and image resizing.
+- Applied Wavelet Transform for feature extraction and combined transformed features with raw image data for model training.
+- Evaluated SVM, Logistic Regression, and Random Forest classifiers, using GridSearchCV for hyperparameter tuning.
+- Achieved **64.5% test accuracy** with a tuned SVM classifier across 17 personality classes.
+
+**Tech:** Python, OpenCV, Scikit-learn, PyWavelets, NumPy, SVM, GridSearchCV
+
+[View Project →](https://github.com/Taranveer-Singh-Gill/Famous-Personality-Image-Classification)
 
 #### 🩺 HL7 FHIR Healthcare Data Pipeline
 
