@@ -83,11 +83,24 @@ Developed an end-to-end ELT pipeline to transform synthetic HL7 FHIR R4 resource
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/fhir-project)
 
+#### 💳 Credit Card Complaints Analytics Dashboard
+
+Built an interactive Tableau dashboard to analyze 86K+ credit card consumer complaints across the United States.
+
+- Developed KPI views for total complaints, rolling 12-month complaints, timely responses, closure rate, and complaints in progress.
+- Analyzed complaint trends, top issues, company response outcomes, geographic distribution, and submission channels.
+- Built interactive filters for year, company, and state, along with dynamic trend and map controls.
+- Visualized state-level complaint patterns using interactive geographic and density maps.
+
+**Tech:** Tableau, Data Visualization, Business Intelligence, Data Analysis, Microsoft Excel
+
+[View Live Dashboard →](https://public.tableau.com/views/CreditCardTableauDashboard/Dashboard1) | [View GitHub →](YOUR-GITHUB-REPOSITORY-URL)
+
 #### 📊 Workforce Management Database
 
 Designed a database-driven workforce management platform focused on efficient data storage, querying, and analytics.
 
-**Tech:** Python, SQL, Azure, Streamlit
+**Tech:** PostgreSQL, SQL, Python, Streamlit, Database Design
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/Efficient-Workforce-Management-Using-Modern-Database-Architectures)
 
