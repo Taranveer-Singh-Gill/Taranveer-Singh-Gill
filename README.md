@@ -94,7 +94,7 @@ Built an interactive Tableau dashboard to analyze 86K+ credit card consumer comp
 
 **Tech:** Tableau, Data Visualization, Business Intelligence, Data Analysis, Microsoft Excel
 
-[View Live Dashboard →](https://public.tableau.com/views/CreditCardTableauDashboard/Dashboard1) | [View GitHub →](YOUR-GITHUB-REPOSITORY-URL)
+[View Live Dashboard →](https://public.tableau.com/views/CreditCardTableauDashboard/Dashboard1) | [View GitHub →](https://github.com/Taranveer-Singh-Gill/credit-card-complaints-tableau-dashboard)
 
 #### 📊 Workforce Management Database
 
