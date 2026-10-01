@@ -1,13 +1,12 @@
-
 # Hi, I'm Taranveer Singh Gill 👋
 
 ### Data Engineer | Cloud Data Platforms | Azure | Databricks | PySpark | SQL
 
 I'm a Data Engineer with an MS in Data Science from the University at Buffalo. I enjoy building data pipelines, working with large datasets, and turning raw data into reliable, analytics-ready solutions.
 
-Currently, I work with Azure Data Factory, Databricks, PySpark, and SQL to build and maintain cloud-based data platforms. Beyond data engineering, my projects span machine learning, computer vision, healthcare data platforms, and database engineering.
+Currently, I work with Azure Data Factory, Databricks, PySpark, and SQL to build and maintain cloud-based data platforms. Beyond data engineering, my projects span machine learning, AI applications, computer vision, healthcare data platforms, and database engineering.
 
-I'm interested in solving data engineering challenges across industries, from building scalable ETL pipelines to designing cloud lakehouse architectures and developing data solutions that support business decisions.
+I'm interested in solving data engineering challenges across industries, from building scalable ETL pipelines to designing cloud lakehouse architectures and developing AI-powered data solutions.
 
 ---
 
@@ -28,6 +27,13 @@ I'm interested in solving data engineering challenges across industries, from bu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-00ADD8?style=flat-square)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Search-blue?style=flat-square)
 
 **Analytics & Visualization**
 
@@ -58,6 +64,20 @@ An end-to-end healthcare data platform integrating Epic FHIR R4 APIs with Azure 
 [View Project →](https://github.com/Taranveer-Singh-Gill/epic-fhir-data-platform)
 
 
+#### 🤖 AI-Powered E-Commerce Shopping Assistant
+
+Built and deployed a full-stack AI shopping assistant that converts natural-language shopping requests into personalized product recommendations.
+
+- Developed a FastAPI backend integrating OpenAI for structured intent extraction, product reranking, and natural-language recommendation generation.
+- Implemented semantic product retrieval using ChromaDB vector search and OpenAI embeddings, combined with price, category, rating, and availability filtering.
+- Integrated the AI service with a React/TypeScript storefront to return interactive product recommendations directly in the shopping assistant.
+- Containerized the backend with Docker and deployed the full-stack application and REST API on Render.
+
+**Tech:** Python, FastAPI, OpenAI API, ChromaDB, Vector Search, React, TypeScript, Docker, REST APIs
+
+[Live Demo →](https://ai-powered-ecommerce-assistant-frontend.onrender.com) | [View GitHub →](https://github.com/Taranveer-Singh-Gill/ai-powered-ecommerce-assistant) | [API Docs →](https://ai-powered-ecommerce-assistant.onrender.com/docs)
+
+
 #### 🧠 Famous Personality Image Classification
 
 Developed an end-to-end computer vision and machine learning pipeline to classify facial images across 17 famous personalities.
@@ -71,6 +91,7 @@ Developed an end-to-end computer vision and machine learning pipeline to classif
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/Famous-Personality-Image-Classification)
 
+
 #### 🩺 HL7 FHIR Healthcare Data Pipeline
 
 Developed an end-to-end ELT pipeline to transform synthetic HL7 FHIR R4 resources into analytics-ready datasets.
@@ -82,6 +103,7 @@ Developed an end-to-end ELT pipeline to transform synthetic HL7 FHIR R4 resource
 **Tech:** Python, HL7 FHIR R4, PostgreSQL, dbt, SQL
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/fhir-project)
+
 
 #### 💳 Credit Card Complaints Analytics Dashboard
 
@@ -95,6 +117,7 @@ Built an interactive Tableau dashboard to analyze 86K+ credit card consumer comp
 **Tech:** Tableau, Data Visualization, Business Intelligence, Data Analysis, Microsoft Excel
 
 [View Live Dashboard →](https://public.tableau.com/views/CreditCardTableauDashboard/Dashboard1) | [View GitHub →](https://github.com/Taranveer-Singh-Gill/credit-card-complaints-tableau-dashboard)
+
 
 #### 📊 Workforce Management Database
 
