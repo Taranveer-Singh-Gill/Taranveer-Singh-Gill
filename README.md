@@ -77,6 +77,18 @@ Built and deployed a full-stack AI shopping assistant that converts natural-lang
 
 [Live Demo →](https://ai-powered-ecommerce-assistant-frontend.onrender.com) | [View GitHub →](https://github.com/Taranveer-Singh-Gill/ai-powered-ecommerce-assistant) | [API Docs →](https://ai-powered-ecommerce-assistant.onrender.com/docs)
 
+#### 💳 Financial Fraud Detection | End-to-End Machine Learning
+
+Developed an end-to-end machine learning system to detect fraudulent financial transactions using the IEEE-CIS Fraud Detection dataset, containing 590K+ transactions.
+
+- Built a preprocessing pipeline to merge transaction and identity data, engineer features, handle missing values, and perform chronological train-validation splitting.
+- Trained and compared Logistic Regression and LightGBM models, achieving **0.9048 ROC-AUC** and **0.5164 PR-AUC** with LightGBM.
+- Evaluated fraud detection performance using confusion matrices, precision-recall curves, threshold analysis, and SHAP-based model explainability.
+- Developed a **FastAPI prediction service** and an interactive **Streamlit dashboard** to analyze transactions and display fraud risk scores.
+
+**Tech:** Python, Pandas, Scikit-learn, LightGBM, SHAP, FastAPI, Streamlit, Machine Learning
+
+[View Project →](https://github.com/Taranveer-Singh-Gill/financial-fraud-detection)
 
 #### 🧠 Famous Personality Image Classification
 
