@@ -51,7 +51,7 @@ I'm interested in solving data engineering challenges across industries, from bu
 
 ### 🚀 Featured Projects
 
-#### 🏥 Epic FHIR Cloud Lakehouse
+#### (1) Epic FHIR Cloud Lakehouse
 
 An end-to-end healthcare data platform integrating Epic FHIR R4 APIs with Azure cloud services.
 
@@ -67,7 +67,7 @@ An end-to-end healthcare data platform integrating Epic FHIR R4 APIs with Azure 
 
 ---
 
-#### 🤖 AI-Powered E-Commerce Shopping Assistant
+#### (2) AI-Powered E-Commerce Shopping Assistant
 
 Built and deployed a full-stack AI shopping assistant that converts natural-language shopping requests into personalized product recommendations.
 
@@ -84,7 +84,7 @@ Built and deployed a full-stack AI shopping assistant that converts natural-lang
 
 ---
 
-#### 💳 Financial Fraud Detection | End-to-End Machine Learning
+#### (3) Financial Fraud Detection | End-to-End Machine Learning
 
 Developed an end-to-end machine learning system to detect fraudulent financial transactions using the IEEE-CIS Fraud Detection dataset, containing 590K+ transactions.
 
@@ -101,7 +101,7 @@ Developed an end-to-end machine learning system to detect fraudulent financial t
 
 ---
 
-#### 🧠 Famous Personality Image Classification
+#### (4) Famous Personality Image Classification
 
 Developed an end-to-end computer vision and machine learning pipeline to classify facial images across 17 famous personalities.
 
@@ -119,7 +119,7 @@ Developed an end-to-end computer vision and machine learning pipeline to classif
 ---
 
 
-#### 🩺 HL7 FHIR Healthcare Data Pipeline
+#### (5) HL7 FHIR Healthcare Data Pipeline
 
 Developed an end-to-end ELT pipeline to transform synthetic HL7 FHIR R4 resources into analytics-ready datasets.
 
@@ -136,7 +136,7 @@ Developed an end-to-end ELT pipeline to transform synthetic HL7 FHIR R4 resource
 ---
 
 
-#### 💳 Credit Card Complaints Analytics Dashboard
+#### (6) Credit Card Complaints Analytics Dashboard
 
 Built an interactive Tableau dashboard to analyze 86K+ credit card consumer complaints across the United States.
 
@@ -148,18 +148,6 @@ Built an interactive Tableau dashboard to analyze 86K+ credit card consumer comp
 **Tech:** Tableau, Data Visualization, Business Intelligence, Data Analysis, Microsoft Excel
 
 [View Live Dashboard →](https://public.tableau.com/views/CreditCardTableauDashboard/Dashboard1) | [View GitHub →](https://github.com/Taranveer-Singh-Gill/credit-card-complaints-tableau-dashboard)
-
-<br>
-
----
-
-#### 📊 Workforce Management Database
-
-Designed a database-driven workforce management platform focused on efficient data storage, querying, and analytics.
-
-**Tech:** PostgreSQL, SQL, Python, Streamlit, Database Design
-
-[View Project →](https://github.com/Taranveer-Singh-Gill/Efficient-Workforce-Management-Using-Modern-Database-Architectures)
 
 ---
 
