@@ -63,6 +63,9 @@ An end-to-end healthcare data platform integrating Epic FHIR R4 APIs with Azure 
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/epic-fhir-data-platform)
 
+<br>
+
+---
 
 #### 🤖 AI-Powered E-Commerce Shopping Assistant
 
@@ -77,6 +80,10 @@ Built and deployed a full-stack AI shopping assistant that converts natural-lang
 
 [Live Demo →](https://ai-powered-ecommerce-assistant-frontend.onrender.com) | [View GitHub →](https://github.com/Taranveer-Singh-Gill/ai-powered-ecommerce-assistant) | [API Docs →](https://ai-powered-ecommerce-assistant.onrender.com/docs)
 
+<br>
+
+---
+
 #### 💳 Financial Fraud Detection | End-to-End Machine Learning
 
 Developed an end-to-end machine learning system to detect fraudulent financial transactions using the IEEE-CIS Fraud Detection dataset, containing 590K+ transactions.
@@ -89,6 +96,10 @@ Developed an end-to-end machine learning system to detect fraudulent financial t
 **Tech:** Python, Pandas, Scikit-learn, LightGBM, SHAP, FastAPI, Streamlit, Machine Learning
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/financial-fraud-detection)
+
+<br>
+
+---
 
 #### 🧠 Famous Personality Image Classification
 
@@ -103,6 +114,10 @@ Developed an end-to-end computer vision and machine learning pipeline to classif
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/Famous-Personality-Image-Classification)
 
+<br>
+
+---
+
 
 #### 🩺 HL7 FHIR Healthcare Data Pipeline
 
@@ -115,6 +130,10 @@ Developed an end-to-end ELT pipeline to transform synthetic HL7 FHIR R4 resource
 **Tech:** Python, HL7 FHIR R4, PostgreSQL, dbt, SQL
 
 [View Project →](https://github.com/Taranveer-Singh-Gill/fhir-project)
+
+<br>
+
+---
 
 
 #### 💳 Credit Card Complaints Analytics Dashboard
@@ -130,6 +149,9 @@ Built an interactive Tableau dashboard to analyze 86K+ credit card consumer comp
 
 [View Live Dashboard →](https://public.tableau.com/views/CreditCardTableauDashboard/Dashboard1) | [View GitHub →](https://github.com/Taranveer-Singh-Gill/credit-card-complaints-tableau-dashboard)
 
+<br>
+
+---
 
 #### 📊 Workforce Management Database
 
